@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/104254107/189496880-799f3ad5-5354-4de2-8002-94a8a948fc52.gif)
+
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/104254107/189496922-b98314ce-18a4-4ec0-af14-0ffe1ab2d03f.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunwarabhi7&label=Profile%20views&color=0e75b6&style=flat" alt="kunwarabhi7" /> </p>
