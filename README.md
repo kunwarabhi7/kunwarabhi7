@@ -10,7 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunwarabhi7" alt="kunwarabhi7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kunwarabhi7" target="blank"><img src="https://img.shields.io/twitter/follow/kunwarabhi7?logo=twitter&style=for-the-badge" alt="kunwarabhi7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kunwarabhi7" target="blank"><img src="https://img.shields.io/twitter/follow/kunwarabhi7?logo=twitter&style=for-the-badge" alt="kunwarabhi7" /></a>
+<a href="https://linkedin.com/in/kunwarabhi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunwarabhi7" height="30" width="40" /></a>
+</p>
 
 - 🔭 I’m currently working on **ECommerce Website**
 
