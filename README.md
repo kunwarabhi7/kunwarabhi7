@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **REACT.JS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **any project**
 
