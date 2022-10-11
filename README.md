@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/kunwarabhi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunwarabhi7" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **Blog App**
 
 - 🌱 I’m currently learning **NextJS**
 
