@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&color=D2D86E&center=true&vCenter=true&lines=Frontend+Developer;React+%7C+Next.js+Enthusiast;Building+Modern+Web+Apps" />
 </p>
 
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/93293719/189478020-75f9d9e9-3fe8-48c5-89a5-1f9f76ac27f4.gif" />
+
 ---
 
 ## 🚀 About Me
