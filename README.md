@@ -24,12 +24,13 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://twitter.com/kunwarabhi7" target="_blank">
   <img src="https://img.shields.io/badge/@kunwarabhi7-111111?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/kunwarabhi7" target="_blank">
-  <img src="https://img.shields.io/badge/@kunwarabhi7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/@kunwarabhi7-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
