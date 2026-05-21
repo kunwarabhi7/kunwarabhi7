@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/@kunwarabhi7-111111?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-  <a href="https://linkedin.com/in/kunwarabhi7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://linkedin.com/in/kunwarabhi7" target="_blank">
+  <img src="https://img.shields.io/badge/@kunwarabhi7-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+</a> 
 
 </p>
 
