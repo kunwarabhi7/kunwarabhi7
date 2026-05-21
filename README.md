@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://linkedin.com/in/kunwarabhi7" target="_blank">
-  <img src="https://img.shields.io/badge/@kunwarabhi7-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/in%2Fkunwarabhi7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
