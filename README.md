@@ -24,8 +24,8 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/kunwarabhi7" target="_blank">
-  <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
+ <a href="https://twitter.com/kunwarabhi7" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/kunwarabhi7?style=for-the-badge&logo=x" />
 </a>
 
   <a href="https://linkedin.com/in/kunwarabhi7" target="_blank">
