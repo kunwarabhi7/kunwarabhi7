@@ -55,13 +55,12 @@
 
 ---
 
-## 📈 Language Usage
 
+## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarabhi7&layout=pie&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarabhi7&langs_count=8&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
