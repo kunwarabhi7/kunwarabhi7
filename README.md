@@ -29,8 +29,8 @@
 </a>
 
 <a href="https://linkedin.com/in/kunwarabhi7" target="_blank">
-  <img src="https://img.shields.io/badge/@kunwarabhi7-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
-</a> 
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+</a>
 
 </p>
 
