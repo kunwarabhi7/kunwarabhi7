@@ -57,8 +57,9 @@
 
 ## 📈 Language Usage
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarabhi7&layout=donut&theme=tokyonight" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarabhi7&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" />
 </p>
 
 ---
