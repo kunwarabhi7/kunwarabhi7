@@ -59,7 +59,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarabhi7&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarabhi7&layout=pie&theme=tokyonight" />
 </p>
 
 ---
