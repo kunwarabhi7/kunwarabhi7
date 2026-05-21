@@ -53,8 +53,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwarabhi7&theme=tokyonight" height="170" />
 </p>
 
+---
+
+## 📈 Language Usage
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunwarabhi7&show_icons=true&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarabhi7&layout=donut&theme=tokyonight" height="250" />
 </p>
 
 ---
@@ -63,6 +67,24 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunwarabhi7&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/kunwarabhi7">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
 </p>
 
 ---
