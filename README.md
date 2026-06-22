@@ -75,9 +75,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunwarabhi7&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunwarabhi7&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## ☕ Philosophy
